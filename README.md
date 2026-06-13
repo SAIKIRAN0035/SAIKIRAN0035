@@ -2,7 +2,12 @@
 
 **Software Developer** building web apps, e-commerce products, and portfolio projects.
 
-- Building **[Vaha Ruchulu](https://vaha-ruchulu.vercel.app)** — homemade pickles & podis e-commerce with WhatsApp ordering
+### Pinned project
+
+**[e-commerce-website](https://github.com/SAIKIRAN0035/e-commerce-website)** — [Vaha Ruchulu live demo](https://vaha-ruchulu.vercel.app)  
+React + Vercel shop with WhatsApp ordering, owner dashboard & inventory.
+
+- Building **[Vaha Ruchulu](https://vaha-ruchulu.vercel.app)** — homemade pickles & podis e-commerce
 - Portfolio: **[saikiran-portfolio](https://github.com/SAIKIRAN0035/saikiran-portfolio)**
 - Focus: **React · Java · Django · Vercel · Git**
 
