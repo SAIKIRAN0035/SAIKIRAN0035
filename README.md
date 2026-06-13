@@ -15,12 +15,13 @@ React + Vercel shop with WhatsApp ordering, owner dashboard & inventory.
 
 ## Featured projects
 
-| Project | Live | Stack |
-|---------|------|-------|
-| [e-commerce-website](https://github.com/SAIKIRAN0035/e-commerce-website) | [vaha-ruchulu.vercel.app](https://vaha-ruchulu.vercel.app) | React, Vite, Vercel Blob |
-| [saikiran-portfolio](https://github.com/SAIKIRAN0035/saikiran-portfolio) | React portfolio | React, Tailwind, Framer Motion |
-| [resume-builder](https://github.com/SAIKIRAN0035/resume-builder) | Static prototype | HTML, CSS, JavaScript |
-| [django-starter](https://github.com/SAIKIRAN0035/django-starter) | Starter scaffold | Django, Python |
+| Project | Type | Link |
+|---------|------|------|
+| **[e-commerce-website](https://github.com/SAIKIRAN0035/e-commerce-website)** | Live app | [vaha-ruchulu.vercel.app](https://vaha-ruchulu.vercel.app) |
+| **[ecommerce-website-build](https://github.com/SAIKIRAN0035/ecommerce-website-build)** | Website case study | Full scratch→production docs |
+| **[ecommerce-devops-pipeline](https://github.com/SAIKIRAN0035/ecommerce-devops-pipeline)** | DevOps | CI/CD, health checks, runbooks |
+| [saikiran-portfolio](https://github.com/SAIKIRAN0035/saikiran-portfolio) | React portfolio | Tailwind, Framer Motion |
+| [resume-builder](https://github.com/SAIKIRAN0035/resume-builder) | Frontend | HTML/CSS/JS prototype |
 
 ---
 
